@@ -10,7 +10,7 @@ on:
     branches: [ master ]
 
 env:
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GH_TOKEN: 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
 
 jobs:
   release:
